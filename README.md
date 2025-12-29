@@ -1,6 +1,6 @@
-# Azure Container Apps Portfolio Deployment
+# Opsfolio: Cross-Cloud Platform
 
-## Production-Grade CI/CD Pipeline | Multi-Cloud Integration | Infrastructure as Code
+## Cross-Cloud DevSecOps Infrastructure | Production-Grade | OIDC Federation | Infrastructure as Code
 
 [![Azure](https://img.shields.io/badge/Azure-Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/container-apps)
 [![AWS](https://img.shields.io/badge/AWS-ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ecr/)
@@ -35,7 +35,7 @@ This project demonstrates enterprise-grade DevOps practices applied to cloud inf
 
 ## Overview
 
-This portfolio project showcases production-ready cloud infrastructure with fully automated deployment pipelines:
+Opsfolio cross-cloud platform project showcases production-ready cloud infrastructure with fully automated deployment pipelines:
 
 - **Automated CI/CD** - Complete automation from commit to production deployment
 - **Multi-Cloud Architecture** - AWS ECR for container registry, Azure Container Apps for hosting
